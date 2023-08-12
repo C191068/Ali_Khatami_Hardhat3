@@ -33,5 +33,8 @@ Figure3: here we pass ```address priceFeed``` as a parameter to the above ```con
 Figure4: When we deploy our contract we gonna we gonna pass the Eth/USD price feed address depending <br>
 on the network we are using <br>
 
+Now as our constructor takes price feed address as a parameter we gonna save our AggregatorV3Interface as global variable <br>
+
+
 
 
