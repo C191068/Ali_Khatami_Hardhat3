@@ -46,6 +46,9 @@ which we are importing from chainlink repo like below <br>
 
 which is an interface object that gets pop down to ABI <br>
 
+if we match an ABI up with an address we get a contract <br>
+
+
 
 
 
