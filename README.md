@@ -106,6 +106,9 @@ Then we save it as a global variable of AggregatorV3Interface type <br>
 
 Then we are passing it to getConversionRate() function <br>
 
+![h45](https://github.com/C191068/Ali_Khatami_Hardhat3/assets/89090776/1d346647-323e-4045-ab6e-98c9b8c3dced)
+
+which passes it getprice() function <br>
 
 
 
