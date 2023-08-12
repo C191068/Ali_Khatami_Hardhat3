@@ -79,5 +79,12 @@ which again since it is a library it automatically passes ```msg.value``` into t
 function <br>
 
 
+![h39](https://github.com/C191068/Ali_Khatami_Hardhat3/assets/89090776/7cf9d455-122e-452c-8b3b-60091ed0be7b)
+
+We can also pass in this priceFeed <br>
+
+![h40](https://github.com/C191068/Ali_Khatami_Hardhat3/assets/89090776/4dd76241-b582-4d86-a9b3-0bce8fffa07a)
+
+And then we don't need to hard code at ```getPrice()``` function anymore <br>
 
 
