@@ -52,6 +52,8 @@ if we match an ABI up with an address we get a contract thet we can interact wit
 
 Here above we made the changes in the code <br>
 
+Now we have priceFeed address i.e is modularized and variable depending on the chain we are working <br>
+
 
 
 
