@@ -40,4 +40,10 @@ Now as our constructor takes price feed address as a parameter we gonna save our
 
 here in this file we create a price feed variable of type AggregatorV3Interface <br>
 
+which we are importing from chainlink repo like below <br>
+
+```import "@chainlink/contracts/src/v0.8/interfaces/AggregatorV3Interface.sol"``` <br>
+
+
+
 
