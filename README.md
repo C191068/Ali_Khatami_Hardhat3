@@ -28,4 +28,10 @@ Refractoring means going back and changing the way your code works <br>
 Figure3: here we pass ```address priceFeed``` as a parameter to the above ```constructor``` function shown with yellow arrow<br>
 
 
+![h32](https://github.com/C191068/Ali_Khatami_Hardhat3/assets/89090776/3183e294-ba6e-4302-9ba5-c872d2526095)
+
+Figure4: When we deploy our contract we gonna we gonna pass the Eth/USD price feed address depending <br>
+on the network we are using <br>
+
+
 
