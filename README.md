@@ -96,7 +96,9 @@ A quick refresher <br>
 
 ![h42](https://github.com/C191068/Ali_Khatami_Hardhat3/assets/89090776/2bc9ba5b-22a1-4402-b204-ba5062dfee5d)
 
-We are parametrizing the priceFeed address shown with yellow arrow <br>
+We are parametrizing the priceFeed address shown with yellow arrow and passing it with constructor <br>
+
+
 
 
 
