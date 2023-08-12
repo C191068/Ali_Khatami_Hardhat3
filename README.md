@@ -102,6 +102,9 @@ We are parametrizing the priceFeed address shown with yellow arrow and passing i
 
 Then we save it as a global variable of AggregatorV3Interface type <br>
 
+![h44](https://github.com/C191068/Ali_Khatami_Hardhat3/assets/89090776/00a7a1c0-dedf-41e8-9c2e-9ce9abfcc7f4)
+
+Then we are passing it to getConversionRate() function <br>
 
 
 
