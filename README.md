@@ -114,4 +114,6 @@ which passes it getprice() function <br>
 
 which then just calls the latestRoundData() <br>
 
+Thus we have done the refractoring <br>
+
 
