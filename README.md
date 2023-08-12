@@ -66,6 +66,11 @@ We are using it as a library on top olf our uint256 <br>
 
 We are calling ```msg.value.getConversionRate()``` at akrkFundMe.sol file <br>
 
+![h37](https://github.com/C191068/Ali_Khatami_Hardhat3/assets/89090776/8f76a7c2-9923-4abe-afc8-eaee0d868b58)
+
+Now we look at ```akrkPriceConvertor.sol``` we have ```function getConversionRate( uint256 ethAmount)```  <br>
+
+which takes uint256 ethAmount as initialize parameter <br>
 
 
 
