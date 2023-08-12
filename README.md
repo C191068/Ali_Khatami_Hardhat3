@@ -120,6 +120,8 @@ Thus we have done the refractoring <br>
 
 To compile we give the command ```yarn hardhat compile``` and it ius successfully compiled <br>
 
+We have just refactored our code now we can price feed address depending on the network we are <br>
+
 
 
 
