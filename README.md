@@ -110,5 +110,8 @@ Then we are passing it to getConversionRate() function <br>
 
 which passes it getprice() function <br>
 
+![h46](https://github.com/C191068/Ali_Khatami_Hardhat3/assets/89090776/b07ab90a-d9b3-4438-b51b-27b8ce607c84)
+
+which then just calls the latestRoundData() <br>
 
 
