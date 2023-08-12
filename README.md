@@ -98,6 +98,9 @@ A quick refresher <br>
 
 We are parametrizing the priceFeed address shown with yellow arrow and passing it with constructor <br>
 
+![h43](https://github.com/C191068/Ali_Khatami_Hardhat3/assets/89090776/408b500e-0e30-44d1-a69f-1c94b4c601da)
+
+Then we save it as a global variable of AggregatorV3Interface type <br>
 
 
 
