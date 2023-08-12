@@ -87,4 +87,9 @@ We can also pass in this priceFeed <br>
 
 And then we don't need to hard code at ```getPrice()``` function anymore <br>
 
+![h41](https://github.com/C191068/Ali_Khatami_Hardhat3/assets/89090776/a43e635a-309f-4623-8304-000485532e28)
+
+Here initial parameter gonna be msg.value and second parameter gonna be priceFeed <br>
+
+
 
