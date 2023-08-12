@@ -23,6 +23,9 @@ Now we have to do refractoring of our akrkFundMe.sol code <br>
 
 Refractoring means going back and changing the way your code works <br>
 
+![h31](https://github.com/C191068/Ali_Khatami_Hardhat3/assets/89090776/a4444205-9dfd-408b-8f3c-610c302f3eff)
+
+Figure3: here we pass ```address priceFeed``` as a parameter to the above ```constructor``` function shown with yellow arrow<br>
 
 
 
