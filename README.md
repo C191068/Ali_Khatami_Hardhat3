@@ -19,4 +19,10 @@ So that no matter what blockchain we deploy to <br>
 
 we don't have to change our code <br>
 
+Now we have to do refractoring of our akrkFundMe.sol code <br>
+
+Refractoring means going back and changing the way your code works <br>
+
+
+
 
