@@ -54,6 +54,7 @@ Here above we made the changes in the code <br>
 
 Now we have priceFeed address i.e is modularized and variable depending on the chain we are working <br>
 
+Now we can use this priceFeed address and use it for our PriceConvertor <br>
 
 
 
