@@ -15,4 +15,8 @@ The address of Eth/USD of Ethereum is totally different from Eth/USD of Sepolia 
 
 Figure2: we also need to modularize or parameterize the address shown with yellow arrow shown above <br>
 
+So that no matter what blockchain we deploy to <br>
+
+we don't have to change our code <br>
+
 
