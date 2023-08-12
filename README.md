@@ -44,6 +44,8 @@ which we are importing from chainlink repo like below <br>
 
 ```import "@chainlink/contracts/src/v0.8/interfaces/AggregatorV3Interface.sol"``` <br>
 
+which is an interface object that gets pop down to ABI <br>
+
 
 
 
