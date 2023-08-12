@@ -72,6 +72,9 @@ Now we look at ```akrkPriceConvertor.sol``` we have ```function getConversionRat
 
 which takes uint256 ethAmount as initialize parameter <br>
 
+![h38](https://github.com/C191068/Ali_Khatami_Hardhat3/assets/89090776/4f9f1dad-a5fe-41dc-a4b7-f253740f7a34)
+
+
 which again since it is a library it automatically passes ```msg.value``` into this ```getConversion()``` <br>
 function <br>
 
