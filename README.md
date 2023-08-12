@@ -11,3 +11,8 @@ each with price feeds shown with blu arrow <br>
 
 The address of Eth/USD of Ethereum is totally different from Eth/USD of Sepolia <br>
 
+![h30](https://github.com/C191068/Ali_Khatami_Hardhat3/assets/89090776/f73ec364-337f-4eb1-8439-2fa67987359f)
+
+Figure2: we also need to modularize or parameterize the address shown with yellow arrow shown above <br>
+
+
