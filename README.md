@@ -1,4 +1,4 @@
-![image](https://github.com/C191068/Ali_Khatami_Hardhat3/assets/89090776/0ee53c7a-c9b1-4559-9ff2-74a207814039)# Ali_Khatami_Hardhat3(Learning from the video of Pattrick Collins)
+# Ali_Khatami_Hardhat3(Learning from the video of Pattrick Collins)
 ### Mocking
 
 Mocking is primarily used for unit testing. In simple words mocking is creating objects that simulate the behavior of real objects <br>
